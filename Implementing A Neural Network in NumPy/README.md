@@ -1,4 +1,4 @@
-# implementing a neural network in NumPy
+# Implementing a neural network in NumPy
 The code is in "hw2.ipynb" file and project requirement is in "hw2.pdf" file.
 In this project, I implement every part of a neural network in NumPy, which includes: 
 1. The sigmoid and ReLU activation function;
